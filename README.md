@@ -1,2 +1,2 @@
 # Keras_CNN_MNIST
-CNN on MNIST by Keras
+Convolutional Neural Network on MNIST Dataset by Keras Framework
